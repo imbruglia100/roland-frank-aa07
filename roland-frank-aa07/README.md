@@ -162,5 +162,3 @@ As you learn more about HTML and CSS, keep the following tips in mind:
 
 [Wireframe]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/css/html-practice-wireframe.png
 [semantic HTML wrapper elements]: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#html_layout_elements_in_more_detail
-# roland-frank-aa07
-# roland-frank-aa07
